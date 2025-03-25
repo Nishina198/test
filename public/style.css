@@ -1,0 +1,19 @@
+.results{
+    font-family: cursive;
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+input{
+    width: 30vw;
+    height: 6vh;
+    border-radius: 40px;
+    padding-left: 15px;
+    border: 2px #837f7f45 solid;
+    outline: none;
+}
+h1{
+    font-size: 3vw;
+}
